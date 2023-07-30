@@ -2,4 +2,6 @@ Hello Are You Ready To Learn Git
 
 Yes I am ready 
 
-and how about you
+and how about you 
+
+I am okay
